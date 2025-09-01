@@ -60,9 +60,9 @@ MySQL | MongoDB
 ---
 
 ## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmsdr2019@gmail.com)  
+📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
+🔗 LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🌐 Portfolio: [My Portfolio](https://yourportfolio.com)
 
 ---
 ⭐️ From [Adarsh09675](https://github.com/Adarsh09675)
