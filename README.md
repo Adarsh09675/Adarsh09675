@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adarsh Kumar Mishra  
 
-🎓 B.Tech (CSE) from Chandigarh University  
-📍 Based in Himachal Pradesh, India  
+🎓  B.E. (Hons.) in Cloud Computing from Chandigarh University 
+📍 Based in Chandigarh, India  
 📧 adarsh.email@example.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
 
