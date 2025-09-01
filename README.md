@@ -2,7 +2,7 @@
 
 🎓  B.E. (Hons.) in Cloud Computing from Chandigarh University 
 📍 Based in Chandigarh, India  
-📧 adarsh.email@example.com  
+📧 akmsdr2019@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
 
 ---
@@ -31,7 +31,6 @@ MySQL | MongoDB
 
 ## 🧠 Projects  
 - 💰 **Bank Management System** (HTML, CSS, JS, Firebase)  
-- 🎬 **Movie Recommendation Platform** (React + ML)  
 - ☁️ **Node.js + MongoDB APIs for Country/State/District App**   
 - ⚡ **Portfolio Website** hosted on GitHub Pages  
 
