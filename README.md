@@ -32,8 +32,7 @@ MySQL | MongoDB
 ## 🧠 Projects  
 - 💰 **Bank Management System** (HTML, CSS, JS, Firebase)  
 - 🎬 **Movie Recommendation Platform** (React + ML)  
-- ☁️ **Node.js + MongoDB APIs for Country/State/District App**  
-- 🔐 **Cryptography Toolkit** (Ciphers, Hashing, OpenSSL)  
+- ☁️ **Node.js + MongoDB APIs for Country/State/District App**   
 - ⚡ **Portfolio Website** hosted on GitHub Pages  
 
 ---
@@ -41,8 +40,7 @@ MySQL | MongoDB
 ## 🏆 Achievements  
 - 🌟 Completed **DevOps Internship** at Shiwansh Solutions, Mohali  
 - ☁️ AWS Cloud Foundation Certified  
-- 🎓 Workshops on **Java, DeFi Smart Contracts, AI/ML**  
-- 🏅 Actively contributing to **open-source & academic projects**  
+- 🎓 Workshops on **Java, DeFi Smart Contract**
 
 ---
 
