@@ -3,7 +3,7 @@
 🎓  B.E. (Hons.) in Cloud Computing from Chandigarh University 
 📍 Based in Chandigarh, India  
 📧 akmsdr2019@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
 
 ---
 
