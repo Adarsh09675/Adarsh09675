@@ -58,7 +58,7 @@ MySQL | MongoDB
 
 ## 📬 Connect With Me  
 📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
-🔗 LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🔗 LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
 🌐 Portfolio: [My Portfolio](https://adarsh09675.github.io/Portfolio/)
 
 ---
