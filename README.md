@@ -2,8 +2,10 @@
 
 🎓  B.E. (Hons.) in Cloud Computing from Chandigarh University 
 📍 Based in Chandigarh, India  
-📧 akmsdr2019@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+<p align="center">
+  <a href="mailto:akmsdr2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/adarsh-mishra-84b397252/"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Mishra-blue?style=flat&logo=linkedin"></a>
+</p>
 
 ---
 
@@ -57,9 +59,11 @@ MySQL | MongoDB
 ---
 
 ## 📬 Connect With Me  
-📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
-🔗 LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
-🌐 Portfolio: [My Portfolio](https://adarsh09675.github.io/Portfolio/)
+<p align="center">
+  <a href="mailto:akmsdr2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/adarsh-mishra-84b397252/"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Mishra-blue?style=flat&logo=linkedin"></a>
+  <a href="https://adarsh09675.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat&logo=google-chrome"></a>
+</p>
 
 ---
 ⭐️ From [Adarsh09675](https://github.com/Adarsh09675)
