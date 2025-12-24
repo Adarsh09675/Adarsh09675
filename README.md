@@ -84,14 +84,6 @@ Git | GitHub | Postman | Linux | VS Code
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh09675&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh09675&layout=compact&theme=radical)  
-
----
-
 ## 📬 Connect With Me  
 
 📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
