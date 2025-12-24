@@ -1,63 +1,103 @@
 # 👋 Hi, I'm Adarsh Kumar Mishra  
 
-🎓  B.E. (Hons.) in Cloud Computing from Chandigarh University 
-📍 Based in Chandigarh, India  
-📧 akmsdr2019@gmail.com
+🎓 B.Tech in Computer Science & Engineering  
+🏫 Chandigarh University, Punjab, India  
+📍 India  
+📧 akmsdr2019@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🌐 **Portfolio:** https://adarsh09675.github.io  
 
 ---
 
 ## 🚀 About Me
-I'm a highly motivated and detail-oriented Computer Science student passionate about **Full Stack Development, DevOps, and Cloud Computing**.  
-With hands-on experience in **React.js, Node.js, AWS, and CI/CD**, I aim to contribute to impactful projects and grow as a **Software Engineer / DevOps Engineer**.  
+
+I am a **Computer Science graduate** with interests in **Software Development, Quality Assurance (QA), and Full Stack (MERN) Development**.  
+I enjoy building **reliable, scalable applications** and ensuring they work correctly through **proper testing, validation, and clean design**.
+
+I have hands-on experience in **Java backend development, MERN stack applications, RESTful APIs, and manual/API testing**.  
+Alongside development, I focus on **understanding application workflows, identifying edge cases, and improving software quality**.
+
+🎯 Actively seeking **entry-level roles** as a:  
+- **Software Engineer**  
+- **Java Developer**  
+- **MERN Stack Developer**  
+- **QA / Test Engineer**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-Java | JavaScript | SQL | Python  
+### 💻 Languages  
+Java | JavaScript | SQL | Python (Basics)
 
-**Web Development:**  
+### 🌐 Web & Full Stack Development  
 HTML | CSS | React.js | Node.js | Express.js  
 
-**Cloud & DevOps:**  
-AWS | Docker | Jenkins | GitHub Actions | Firebase  
+### 🧪 Testing & QA  
+Manual Testing | Test Case Writing | API Testing (Postman) | SDLC | Bug Reporting  
 
-**Databases:**  
-MySQL | MongoDB  
+### 🗄️ Databases  
+MongoDB | MySQL  
 
----
+### ☁️ DevOps & Cloud (Foundational)  
+AWS (EC2, S3 – Basics) | Docker | Jenkins (Basics) | GitHub Actions  
 
-## 🧠 Projects  
-- 💰 **Bank Management System** (HTML, CSS, JS, Firebase)  
-- ☁️ **Node.js + MongoDB APIs for Country/State/District App**   
-- ⚡ **Portfolio Website** hosted on GitHub Pages  
-
----
-
-## 🏆 Achievements   
-- ☁️ AWS Cloud Foundation Certified  
-- 🎓 Workshops on **Java, DeFi Smart Contract**
+### 🔧 Tools  
+Git | GitHub | Postman | Linux | VS Code  
 
 ---
 
-## 🎯 Goals  
-- 💼 Seeking roles in **Software Development / DevOps**  
-- 👨‍💻 Building impactful **real-world applications**  
+## 🧠 Featured Projects  
+
+### 🌍 **Travel Story Manager – MERN Stack**
+- Full-stack MERN application for managing and sharing travel experiences  
+- JWT-based authentication and RESTful APIs  
+- MongoDB for data storage and React for dynamic UI  
+
+### ✅ **Task Manager Application – MERN Stack**
+- Authentication-based task management system  
+- Secure JWT login with role-based access  
+- API testing and workflow validation using Postman  
+
+### 👥 **Smart Contact Manager – Spring Boot & MySQL**
+- Secure contact management system with user authentication  
+- CRUD operations following MVC architecture  
+- Relational database design using MySQL  
+
+---
+
+## 🏆 Certifications  
+
+- ☁️ **AWS Academy Graduate – Cloud Foundations**  
+- 🎓 **Google IT Support Professional Certificate**  
+- 📘 **Foundations of Project Management – Google (Coursera)**  
+- 🧑‍💻 **Java Development Workshop – TekNavigators**  
+- 🔐 **DeFi Smart Contract Development Workshop – Blockseblock**  
+
+---
+
+## 🎯 Career Goals  
+
+- Start my career as a **Software Engineer / Java Developer / MERN Stack Developer / QA Engineer**  
+- Build **high-quality, testable, and scalable applications**  
+- Continuously improve skills in **testing, backend development, and cloud fundamentals**
 
 ---
 
 ## 📈 GitHub Stats  
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh09675&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh09675&layout=compact&theme=radical)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh09675&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh09675&layout=compact&theme=radical)  
 
 ---
 
 ## 📬 Connect With Me  
+
 📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
-🔗 LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🔗 LinkedIn: [Adarsh Kumar Mishra](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
+🌐 Portfolio: https://adarsh09675.github.io  
 
 ---
-⭐️ From [Adarsh09675](https://github.com/Adarsh09675)
 
+⭐️ *Thanks for visiting my GitHub profile!*
