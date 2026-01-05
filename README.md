@@ -5,7 +5,7 @@
 📍 India  
 📧 akmsdr2019@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
-🌐 **Portfolio:** https://adarsh09675.github.io  
+🌐 **Portfolio:**  https://adarsh09675.github.io/Portfolio/
 
 ---
 
@@ -84,12 +84,5 @@ Git | GitHub | Postman | Linux | VS Code
 
 ---
 
-## 📬 Connect With Me  
-
-📧 Email: [akmsdr2019@gmail.com](mailto:akmsdr2019@gmail.com)  
-🔗 LinkedIn: [Adarsh Kumar Mishra](https://www.linkedin.com/in/adarsh-mishra-84b397252/)  
-🌐 Portfolio: https://adarsh09675.github.io  
-
----
 
 ⭐️ *Thanks for visiting my GitHub profile!*
